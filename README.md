@@ -12,7 +12,7 @@
 <li>keep track on our code</li>>
 <li>As shown below you can create new repository<li>
 
-![image](https://github.com/nkp48/A03/blob/main/repo.png)
+![image](C:\Users\neelp\WebstormProjects\A03\repo.png)
 
 
 Give suitable name to your repository.
@@ -21,4 +21,4 @@ Then you can add "README.md" or/and ".gitignore "files depends on your need.
 and then you can create your repository.
 
 
-![image](https://github.com/nkp48/A03/blob/main/repo2.png)
+![image](C:\Users\neelp\WebstormProjects\A03\repo2.png)
