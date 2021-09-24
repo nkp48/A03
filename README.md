@@ -26,15 +26,16 @@
 https://www.jetbrains.com/webstorm/download/#section=windows
 
 # Step-2 Installation Guide:
-<li>Run the installer and follow the steps:</li>>
+<li>Run the installer and follow the steps:</li>
+<li>Make a desktop shortcut to start WebStorm.</li>
+<li>To execute WebStorm command-line launchers from any working directory in the Command Prompt, 
+add the directory containing them to the PATH environment variable.</li>
 
-<li>Make a desktop shortcut to start WebStorm.</li>>
-<li>To execute WebStorm command-line launchers from any working directory in the Command Prompt,</li>> 
-add the directory containing them to the PATH environment variable.
 
 ![image](Web1.PNG)
 
 Next page will show you this options. You can choose as per your needs.
+
 1.Create a new project (If you want to create a new project)
 
 2.Create a project from existing local sources (If you already have project in your local)
