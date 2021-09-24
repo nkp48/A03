@@ -12,7 +12,7 @@ Repository is a container where we can store a code and we can
 keep track on our code
 As shown below you can create new repository
 
-![image](C:\Users\neelp\WebstormProjects\A03\repo.png)
+![image](https://github.com/nkp48/A03/blob/main/repo.png)
 
 
 Give suitable name to your repository.
