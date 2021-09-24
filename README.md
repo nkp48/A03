@@ -6,7 +6,7 @@ Go to  " https://github.com/join " to create an account. Enter username and emai
  
 ![Image](https://user-images.githubusercontent.com/91209217/134709240-cff6adab-b938-45dc-aaad-eacad88f4d20.png) 
 
-#Step 2: Create a Repository 
+# Step 2: Create a Repository 
 
 Repository is a container where we can store a code and we can
 keep track on our code
@@ -21,12 +21,12 @@ and then you can create your repository.
 
 ![image](repo2.png)
 
-#WebStorm step-by-step tutorial:
+# WebStorm step-by-step tutorial:
 # Step 1: How to download WebStrom 
 To download WebStrom you can click below here and download WebStrom's latest version
 https://www.jetbrains.com/webstorm/download/#section=windows
 
-#Step-2 Installation Guide:
+#S tep-2 Installation Guide:
 Run the installer and follow the steps:
 
 Make a desktop shortcut to start WebStorm.
@@ -46,7 +46,7 @@ Further any more difficulty you can visit
 https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
 
 
-#Definition of terms
+# Definition of terms
 
 **Branch =**
 A branch shows a different path of development. The edit/stage/commit procedure is abstracted using branches. They may be thought of as a method to request a whole new working directory, staging area, and project history. 
