@@ -21,4 +21,4 @@ Then you can add "README.md" or/and ".gitignore "files depends on your need.
 and then you can create your repository.
 
 
-![image](C:\Users\neelp\WebstormProjects\A03\repo2.png)
+![image](https://github.com/nkp48/A03/blob/main/repo2.png)
