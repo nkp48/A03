@@ -39,3 +39,5 @@ Next page will show you this options. You can choose as per your needs.
 1.Create a new project (If you want to create a new project)
 2.Create a project from existing local sources (If you already have project in your local)
 3.Check out an existing project from a version control system
+
+![image](web2.PNG)
