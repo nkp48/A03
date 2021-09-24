@@ -1,4 +1,4 @@
-# GIT Step-By-Step Tutorial 
+# GIT Step-By-Step Tutorial :
 
 # Step 1: Create a GitHub account
  
