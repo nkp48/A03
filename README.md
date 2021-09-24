@@ -46,6 +46,7 @@ Further any more difficulty you can visit
 https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
 
 
+#Definition of terms
 
 **Branch =**
 A branch shows a different path of development. The edit/stage/commit procedure is abstracted using branches. They may be thought of as a method to request a whole new working directory, staging area, and project history. 
