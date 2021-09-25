@@ -98,3 +98,15 @@ They function as convenient names that may reference a not-so-convenient URL rat
 **Repository =**
 In GIT, repositories are collections of files from various versions of a Project. 
 These files are imported from the repository into the user's local server for future updates and changes to the file's content.
+ 
+ 
+# References
+ 
+https://www.atlassian.com/git/tutorials/using-branches
+https://git-scm.com/docs
+https://github.com/git-guides/git-commit
+https://www.atlassian.com/git/tutorials/using-branches/git-merge
+https://www.atlassian.com/git/tutorials/syncing
+https://www.geeksforgeeks.org/what-is-a-git-repository/
+https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line
+ 
